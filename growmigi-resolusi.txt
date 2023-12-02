@@ -2,3 +2,4 @@ GrowMigi Resolusi
 -Konsisten belajar programing
 -Bisa meguasai HTML,CSS, dan JAVASCRIPT
 -Bisa membuat website marketplace
+-Belajar membuat mobile app
