@@ -1,2 +1,2 @@
-# GrowMigi-Resolusi
-Repository untuk menyimpan rencana GrowMigi kedepannya
+# my-Resolusi
+Repository untuk menyimpan rencana saya kedepannya
